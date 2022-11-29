@@ -1,4 +1,4 @@
-## OVZ 需要开启Enable Tun/Tap  和 Enable Fuse in Container
+## 注：OVZ系统内核 需要开启Enable Tun/Tap  和 Enable Fuse in Container
 
 Enable Fuse in Container(s)
 
