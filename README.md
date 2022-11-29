@@ -1,3 +1,7 @@
+## OVZ 需要开启Enable Tun/Tap  和 Enable Fuse in Container
+
+Enable Fuse in Container(s)
+
 **English** | [中文](https://p3terx.com/archives/cloudflare-warp-configuration-script.html)
 
 # Cloudflare WARP Installer
